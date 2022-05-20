@@ -1,0 +1,57 @@
+[
+  {
+    "Name": "Tadikonda Akshay Sampath",
+    "email": "tadikonda@gmail.com",
+    "description": "Client Manager",
+    "logo":"TA"
+  },
+  {
+    "Name":"Robert Pattinson",
+    "email": "robert@gmail.com",
+    "description": "Senior Manager",
+    "logo":"RP"
+  },
+  {
+    "Name": "Robert Downey JR",
+    "email": "Robert@gmail.com",
+    "description": "Recruitment Success",
+    "logo":"RD"
+  },
+  {
+    "Name":"Chris Hemsworth",
+    "email": "Chris@gmail.com",
+    "description": "Client Manager",
+    "logo":"CH"
+  },
+  {
+    "Name":"Chris Evans",
+    "email": "Evans@gmail.com",
+    "description": "Junior Manager",
+    "logo":"CE"
+  },
+  {
+    "Name":"krishna Vamsi",
+    "email": "krishna@gmail.com",
+    "description": "Senior Manager",
+    "logo":"KV"
+  },
+  {
+    "Name":"Jhonny Depp",
+    "email": "Depp@gmail.com",
+    "description": "Recuritment Success",
+    "logo":"JP"
+  },
+  {
+    "Name":"Jackie Chan",
+    "email": "Jackie@gmail.com",
+    "description": "Junior Manager",
+    "logo":"JC"
+  },
+  {
+    "Name":"David Warner",
+    "email": "David@gmail.com",
+    "description": "Senior Manager",
+    "logo":"BW"
+  }
+
+]

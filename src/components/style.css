@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'poppins', sans-serif;
+}
+
+
+
+.navbar{
+  padding: 60px 0 0 10px;
+  display:flex;
+  align-items:top ;
+  width:50%;
+  position: relative;
+  left:22%;
+}
+
+.logo img{
+  border-radius: 12px;
+  height:70px;
+  padding: 10px;
+}
+
+.title-txt{
+  display:flex;
+  flex-direction: column;
+  padding:10px
+}
+
+.title-txt span:first-child{
+  font-weight: bold;  
+  font-size: 28px;
+}
+
+.title-txt span:last-child{
+  font-size: 15px;
+}
+
+
+/*------Home css----*/
+
+.home{
+  background-color: #fff;
+  width: 50%;
+  padding: 20px;
+  position: relative;
+  left:25%;
+  border-radius: 10px;
+  box-shadow: 4px 5px 9px -1px rgba(166,166,166,0.83);
+}
+
+.home-title{
+  font-size: 22px;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+.search-bar{
+  display:flex;
+  align-items: center;
+}
+
+.search-bar input{
+  height: 40px;
+  width:85%;
+  padding:0 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  outline: none;
+  border-radius: 3px 0 0 3px;
+}
+
+.search-bar span{
+  width: 10%;
+  padding:9px 10px;
+  background-color:#2619B1;
+  color: #fff;
+  border-radius: 0 3px 3px 0;
+  cursor: pointer;
+}
+
+.member{
+  display:flex;
+  flex-direction:column;
+  width: 100%;
+  margin-top: 30px;
+}
+
+.home-data{
+  display:flex;
+  justify-content: space-between;
+  padding: 20px;
+  border: 1px solid #ccc;
+  align-items: center;
+}
+
+.data{
+  display:flex; 
+  align-items: center;
+}
+
+.data-result{
+  box-shadow: 3px 4px 9px 1px rgba(166,166,166,0.83);
+  border-radius: 3px;
+  position: absolute;
+  width: 500px;
+  height: 200px;
+  background:#fff;
+  overflow: hidden;
+  overflow-y: auto;
+}
+
+.data-result::-webkit-scrollbar{
+  display: none;
+}
+
+.datas{
+  display:flex;
+  align-items: center;
+  padding:10px ;
+  cursor: pointer;
+  
+}
+
+.datas:hover{
+  background:#f3f2f2;
+}
+
+.data .data-logo, .datas .data-logo{
+  padding:8px ;
+  margin-right: 10px;
+  background:#afd9e9;
+  border-radius:50%;
+  font-weight: bold;
+}
+
+.data-details{
+  display:flex;
+  flex-direction: column;   
+}
+
+.data-details .name span{
+   font-weight: bold;
+   font-size: 16px;
+}
+
+.data-details span{
+  font-size: 12px;
+}
+
